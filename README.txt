@@ -15,8 +15,8 @@ The final checkpoint of each level waits for you to touch the screen and then lo
 Also, there is no sound so far. Sorry!
 
 Glitches that may occur:
-Player falls through floor when respawning... I can't currently think of any more so let me know if you 
-find some!
+Player falls through floor when respawning... Also, the checkpoints can sometime glitch :( I can't currently 
+think of any more so let me know if you find some!
 
 Once you have finished with it, if you could fill in this short, easy survey, I would greatly appreciate it. Thank you!
 
