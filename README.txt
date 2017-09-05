@@ -5,6 +5,10 @@ Hey! Thank you for taking the time to help me! ReadMe's are boring so I will get
 This is strictly a gameplay demo. There will be A LOT of changes to how the game looks before final release
 (which is many months away). Plus obviously, more level environments.
 
+Instructions: The "RetroRunnerAlphaGameplayDemo" game file is for Android only. This means you can either 
+play it on your Android phone, or emulator on PC if you have one. So you would either have to download
+the file via your phone, or transfer it from your PC. Pain in the arse, I know - Sorry.
+
 Basics:
 The screen is divided into two: Touch the top to pause and open the menu. The rest of the screen below
 is for gameplay purposes. 
