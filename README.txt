@@ -5,7 +5,16 @@ Hey! Thank you for taking the time to help me! ReadMe's are boring so I will get
 This is strictly a gameplay demo. There will be A LOT of changes to how the game looks before final release
 (which is many months away). Plus obviously, more level environments.
 
-Instructions: The "RetroRunnerAlphaGameplayDemo" game file is for Android only. This means you can either 
+Instructions: 
+
+WINDOWS: (HAS TEXTURE ISSUES FOR UNKNOWN REASONS)
+Recommended Resolution: 1768 x 992 
+The Windows version is for easy Gameplay testing, rather than having testers be forced to transfer the 
+file from PC to phone, or download the file via this link from a phone. Simply unzip and open the .exe 
+file.
+
+ANDROID: (TEXTURES LOOK AS THEY SHOULD)
+The "RetroRunnerAlphaGameplayDemo02.apk" game file is for Android only. This means you can either 
 play it on your Android phone, or emulator on PC if you have one. So you would either have to download
 the file via your phone, or transfer it from your PC. Pain in the arse, I know - Sorry.
 
